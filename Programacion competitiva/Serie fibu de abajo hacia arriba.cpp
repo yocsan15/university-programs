@@ -1,3 +1,11 @@
+/*
+Este programa calcula el número n de la serie de Fibonacci.
+Primero lee un número entero desde la entrada estándar.
+Luego utiliza una función que calcula el valor de Fibonacci
+de forma iterativa (usando un ciclo) para evitar recursión
+y mejorar el rendimiento. Finalmente imprime el valor de n
+y el resultado correspondiente de la serie de Fibonacci.
+*/
 #include <iostream>
 
 using namespace std;
