@@ -1,3 +1,9 @@
+/* 
+Este programa lee un número entero n desde la entrada estándar.
+Luego crea un vector de tamaño n+1 y llena sus posiciones con los
+números del 1 hasta n. Finalmente, imprime cada número en una
+línea diferente.
+*/
 #include <iostream>
 #include <vector>
 
